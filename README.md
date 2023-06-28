@@ -1,4 +1,4 @@
-# Pedro.vcrs
+# Pedro-vcrs
 <h2 align="center">Olá, eu me chamo Pedro</h2>
 <h3 align="center">Estudante de Analise e Desenvolvimento de Dados</h3>
 <br>
@@ -12,9 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/Pedro-vcrs">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexsandro-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pedro-vcrs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
    <br />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-ms&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-vcrs&layout=compact&langs_count=7&theme=gotham"/>
   </div>
 
 <h3 align="left">Conecte-se comigo:</h3>
