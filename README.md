@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Pedro.vcrs">
+  <a href="https://github.com/Pedro-vcrs">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alexsandro-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
    <br />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandro-ms&layout=compact&langs_count=7&theme=gotham"/>
