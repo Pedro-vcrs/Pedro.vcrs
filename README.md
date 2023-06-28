@@ -6,7 +6,7 @@
 - 💡 Tenho conhecimento em **Python, Node.js, Javascript**
 - 📕 Atualmente estou estudando **Analise de dados**
 - 📝 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/Alexsandro-ms?tab=repositories)
-- 💼 Meu perfil profissional, contendo mais informações sobre mim em [ir para linkedin](https://www.linkedin.com/in/pedro.vcrs/)
+- 💼 Meu perfil profissional, contendo mais informações sobre mim em [ir para linkedin](https://linkedin.com/in/pedro-vinicius-129121276)
 
 <br>
 
