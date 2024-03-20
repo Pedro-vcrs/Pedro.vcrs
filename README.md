@@ -3,9 +3,9 @@
 <h3 align="center">Estudante de Analise e Desenvolvimento de Dados</h3>
 <br>
 
-- 💡 Tenho conhecimento em **Python, Node.js, Javascript**
-- 📕 Atualmente estou estudando **Analise de dados**
-- 📝 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/Alexsandro-ms?tab=repositories)
+- 💡 Tenho conhecimento em **Python, Java, Node.js, Javascript, HTML/CSS**
+- 📕 Atualmente estou estudando **Analise e Desenvolvimento de dados**
+- 📝 Todos os meus projetos estão disponíveis aqui [ver todos os projetos](https://github.com/Pedro-vcrs?tab=repositories)
 - 💼 Meu perfil profissional, contendo mais informações sobre mim em [ir para linkedin](https://linkedin.com/in/pedro-vinicius-129121276)
 
 <br>
@@ -34,3 +34,4 @@
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
  </p>
+
